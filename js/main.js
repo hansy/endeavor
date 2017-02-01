@@ -179,7 +179,7 @@ $(function() {
 // Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
 $('#ajaxChimp').ajaxChimp({
     language: 'eng',
-    url: 'http://stevedogs.us9.list-manage.com/subscribe/post?u=df0aa2ea10f32337b29b342d4&id=41ddc569b4'
+    url: 'http://endeavorteamchallenge.us7.list-manage2.com/subscribe/post?u=393eb041c0c9c069cdbae4b76&id=acdc22f29a'
 });
 
 // Mailchimp translation
@@ -195,7 +195,7 @@ $('#ajaxChimp').ajaxChimp({
 
 $.ajaxChimp.translations.eng = {
     'submit': 'Submitting...',
-    0: '<i class="fa fa-check"></i> We will be in touch soon!',
+    0: '<i class="fa fa-check"></i> Thanks! We just sent a confirmation email!',
     1: '<i class="fa fa-warning"></i> You must enter a valid e-mail address.',
     2: '<i class="fa fa-warning"></i> E-mail address is not valid.',
     3: '<i class="fa fa-warning"></i> E-mail address is not valid.',
